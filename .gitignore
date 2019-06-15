@@ -1,0 +1,10 @@
+HELP.md
+target/
+!**/src/main/**
+!**/src/test/**
+
+.idea
+mvnw.cmd
+mvnw
+.mvn
+hibernateProject.iml
